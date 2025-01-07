@@ -1,5 +1,5 @@
 local default_enemy_color = data.raw["utility-constants"]["default"]["chart"]["default_enemy_color"]
-local unit_types = {"segment", "segmented-unit", "spider-unit", "unit"}
+local unit_types = {"unit-spawner", "segment", "segmented-unit", "spider-unit", "unit"}
 for _, unit_type in pairs(unit_types) do
     for _, prototype in pairs(data.raw[unit_type]) do
         if not prototype.enemy_map_color then
