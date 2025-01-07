@@ -1,0 +1,7 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2025-01-07
+  Features:
+    - Initial release. Territory of the demolisher is invisible.
+  Bugfixes:
+    - Unit Spawners should now not be hidden
