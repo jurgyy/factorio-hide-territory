@@ -1,5 +1,4 @@
-[![Release](https://github.com/fgardt/factorio-mod-template/actions/workflows/release.yml/badge.svg?branch=main)](https://github.com/fgardt/factorio-mod-template/actions/workflows/release.yml)
-<!--                           ^======[REPLACE THIS]======^                                                                          ^======[REPLACE THIS]======^  -->
+[![Release](https://github.com/jurgyy/factorio-hide-territory/actions/workflows/release.yml/badge.svg?branch=main)](https://github.com/jurgyy/factorio-hide-territory/actions/workflows/release.yml)
 
 # About
 
