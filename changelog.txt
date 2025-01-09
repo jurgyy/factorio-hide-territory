@@ -1,4 +1,9 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 2025-01-09
+  Bugfixes:
+    - Moved code from data stage to data-updates stage to prevent units and spawners that are added by other mods from being invisible on the map if they use the default enemy color
+---------------------------------------------------------------------------------------------------
 Version: 1.0.0
 Date: 2025-01-07
   Features:
